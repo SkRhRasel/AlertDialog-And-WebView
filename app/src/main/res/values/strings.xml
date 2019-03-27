@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alert Dialog And WebView</string>
+    <string name="button_click">Click to show Alert</string>
+</resources>
